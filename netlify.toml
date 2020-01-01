@@ -1,4 +1,0 @@
-[build]
-base = "xpartments/"
-publish = "xapartments/build/"
-command = "npm run build"

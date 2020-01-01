@@ -14,7 +14,7 @@ export default function Footer() {
                 <h5 className="address">Fast Bookings or Enquiries? </h5>
                 <p className="address">You can call us on +2347084748899</p>
                 <ul className="footer-links">
-                    <li><Link to="https://www.instagram.com/"><FaInstagram className="li-tag"/></Link></li> 
+                    <li><a href="https://www.instagram.com/"><FaInstagram className="li-tag"/></a></li> 
                 </ul>
         </div>
         </footer>
